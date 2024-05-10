@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+
+- ⚡ Fun fact: The quick brown fox jumps over the lazy dog, this short sentence contains all the letters of the alphabet and was used to test Telex, an international written communications system
 <!--
 **snkptc0rt3x/snkptc0rt3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
