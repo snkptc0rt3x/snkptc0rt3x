@@ -95,9 +95,6 @@ With 14+ years of experience as a telecommunications technician/ISP technician
 <a href="" title="duckduckgo"><img src="https://github.com/get-icon/geticon/raw/master/icons/duckduckgo.svg" alt="duckduckgo" width="30px" height="30px"></a>
 <a href="" title="debian"><img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" alt="debian" width="30px" height="30px"></a>
 <a href="" title="discord"><img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="discord" width="30px" height="30px"></a>
-
-
-
 <a href="" title="cpanel"><img src="https://github.com/get-icon/geticon/raw/master/icons/cpanel.svg" alt="cpanel" width="30px" height="30px"></a>
 <a href="" title="chrome"><img src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="chrome" width="30px" height="30px"></a>
 <a href="" title="bitwarden"><img src="https://github.com/get-icon/geticon/raw/master/icons/bitwarden.svg" alt="bitwarden" width="30px" height="30px"></a>
@@ -106,7 +103,7 @@ With 14+ years of experience as a telecommunications technician/ISP technician
 <a href="" title="android-icon"><img src="https://github.com/get-icon/geticon/raw/master/icons/android-icon.svg" alt="android-icon" width="30px" height="30px"></a>
 <a href="" title="7zip"><img src="https://github.com/get-icon/geticon/raw/master/icons/7zip.svg" alt="7zip" width="30px" height="30px"></a>
 <a href="" title="zoom-icon"><img src="https://github.com/get-icon/geticon/raw/master/icons/zoom-icon.svg" alt="zoom-icon" width="30px" height="30px"></a>
-
+(...)
 
 
 
