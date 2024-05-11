@@ -125,10 +125,14 @@ With 14+ years of experience as a telecommunications technician/ISP technician
 
 
 
+---
 
-
-
-
+### :open_book: Currently Learning :
+- **Focusing on finishing the degree**
+<!--
+<br/>
+<br/>
+-->
 ---
 
 - ⚡ Fun fact: The quick brown fox jumps over the lazy dog, this short sentence contains all the letters of the alphabet and was used to test Telex, an international written communications system
