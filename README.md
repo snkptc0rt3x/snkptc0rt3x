@@ -78,77 +78,30 @@ With 14+ years of experience as a telecommunications technician/ISP technician
 <a href="https://github.com" title="GitHub"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="GitHub" width="30px" height="30px"></a>
 <a href="https://www.gnu.org" title="GNU"><img src="https://github.com/get-icon/geticon/raw/master/icons/gnu.svg" alt="GNU" width="30px" height="30px"></a>
 <a href="https://cloud.google.com" title="Google Cloud Platform"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-cloud-platform.svg" alt="Google Cloud Platform" width="30px" height="30px"></a>
-
-
-
-
-
-
-
-
-
-<a href="" title="google-gmail"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="google-gmail" width="30px" height="30px"></a>
-<a href="" title="google-drive"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-drive.svg" alt="google-drive" width="30px" height="30px"></a>
-<a href="" title="freebsd"><img src="https://github.com/get-icon/geticon/raw/master/icons/freebsd.svg" alt="freebsd" width="30px" height="30px"></a>
-<a href="" title="filezilla"><img src="https://github.com/get-icon/geticon/raw/master/icons/filezilla.svg" alt="filezilla" width="30px" height="30px"></a>
-<a href="" title="firefox_classic"><img src="https://github.com/get-icon/geticon/raw/master/icons/firefox_classic.svg" alt="firefox_classic" width="30px" height="30px"></a>
-<a href="" title="duckduckgo"><img src="https://github.com/get-icon/geticon/raw/master/icons/duckduckgo.svg" alt="duckduckgo" width="30px" height="30px"></a>
-<a href="" title="debian"><img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" alt="debian" width="30px" height="30px"></a>
-<a href="" title="discord"><img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="discord" width="30px" height="30px"></a>
-<a href="" title="cpanel"><img src="https://github.com/get-icon/geticon/raw/master/icons/cpanel.svg" alt="cpanel" width="30px" height="30px"></a>
-<a href="" title="chrome"><img src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="chrome" width="30px" height="30px"></a>
-<a href="" title="bitwarden"><img src="https://github.com/get-icon/geticon/raw/master/icons/bitwarden.svg" alt="bitwarden" width="30px" height="30px"></a>
-<a href="" title="bash"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="bash" width="30px" height="30px"></a>
-<a href="" title="arduino"><img src="https://github.com/get-icon/geticon/raw/master/icons/arduino.svg" alt="arduino" width="30px" height="30px"></a>
-<a href="" title="android-icon"><img src="https://github.com/get-icon/geticon/raw/master/icons/android-icon.svg" alt="android-icon" width="30px" height="30px"></a>
-<a href="" title="7zip"><img src="https://github.com/get-icon/geticon/raw/master/icons/7zip.svg" alt="7zip" width="30px" height="30px"></a>
-<a href="" title="zoom-icon"><img src="https://github.com/get-icon/geticon/raw/master/icons/zoom-icon.svg" alt="zoom-icon" width="30px" height="30px"></a>
+<a href="https://mail.google.com" title="Gmail"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="Gmail" width="30px" height="30px"></a>
+<a href="https://drive.google.com" title="Google Drive"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-drive.svg" alt="Google Drive" width="30px" height="30px"></a>
+<a href="https://www.freebsd.org" title="FreeBSD"><img src="https://github.com/get-icon/geticon/raw/master/icons/freebsd.svg" alt="FreeBSD" width="30px" height="30px"></a>
+<a href="https://filezilla-project.org" title="FileZilla"><img src="https://github.com/get-icon/geticon/raw/master/icons/filezilla.svg" alt="FileZilla" width="30px" height="30px"></a>
+<a href="https://www.mozilla.org/en-US/firefox/" title="Firefox"><img src="https://github.com/get-icon/geticon/raw/master/icons/firefox_classic.svg" alt="Firefox" width="30px" height="30px"></a>
+<a href="https://duckduckgo.com" title="DuckDuckGo"><img src="https://github.com/get-icon/geticon/raw/master/icons/duckduckgo.svg" alt="DuckDuckGo" width="30px" height="30px"></a>
+<a href="https://www.debian.org/index.pt.html" title="Debian"><img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" alt="Debian" width="30px" height="30px"></a>
+<a href="https://discord.com/" title="Discord"><img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="30px" height="30px"></a>
+<a href="https://cpanel.net/" title="cPanel"><img src="https://github.com/get-icon/geticon/raw/master/icons/cpanel.svg" alt="cPanel" width="30px" height="30px"></a>
+<a href="https://www.google.com/intl/en_us/chrome/" title="Google Chrome"><img src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Google Chrome" width="30px" height="30px"></a>
+<a href="https://bitwarden.com/" title="Bitwarden"><img src="https://github.com/get-icon/geticon/raw/master/icons/bitwarden.svg" alt="Bitwarden" width="30px" height="30px"></a>
+<a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="30px" height="30px"></a>
+<a href="https://www.arduino.cc/" title="Arduino"><img src="https://github.com/get-icon/geticon/raw/master/icons/arduino.svg" alt="Arduino" width="30px" height="30px"></a>
+<a href="https://www.android.com" title="Android"><img src="https://github.com/get-icon/geticon/raw/master/icons/android-icon.svg" alt="Android" width="30px" height="30px"></a>
+<a href="https://www.7-zip.org/" title="7-Zip"><img src="https://github.com/get-icon/geticon/raw/master/icons/7zip.svg" alt="7-Zip" width="30px" height="30px"></a>
+<a href="https://zoom.us" title="Zoom"><img src="https://github.com/get-icon/geticon/raw/master/icons/zoom-icon.svg" alt="Zoom" width="30px" height="30px"></a>
 (...)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
 ### :open_book: Currently Learning :
 - **Focusing on finishing the degree**
-<!--
-<br/>
-<br/>
--->
+
 ---
 
 - ⚡ Fun fact: The quick brown fox jumps over the lazy dog, this short sentence contains all the letters of the alphabet and was used to test Telex, an international written communications system
-<!--
 
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,bsd,kali)](https://skillicons.dev)
-arduino,aws,bash,c,cloudflare,cmake,discord,gmail,gcp,git,github,idea,java,js,kubernetes,linkedin,latex,md,mysql,nodejs,npm,postgres,postman,powershell,pycharm,py,raspberrypi,regex,sqlite,threejs,ts,vscode,windows
-
-
-**snkptc0rt3x/snkptc0rt3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
